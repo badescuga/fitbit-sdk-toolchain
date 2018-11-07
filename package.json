@@ -91,7 +91,7 @@
     "typescript": "^3.0.1",
     "update-notifier": "^2.5.0",
     "uuid": "^3.3.2",
-    "validator": "^10.4.0",
+    "validator": "^10.9.0",
     "vinyl": "^2.2.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-fs": "^3.0.3",
